@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-search-and-discovery-filament",
+  "capabilityKey": "planned:ecommerce:search-and-discovery",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-search-and-discovery-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/search-and-discovery.md",
+  "presentationPlan": "projects/ecommerce/filament/search-and-discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}

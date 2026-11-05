@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-search-and-discovery-filament",
+  "description": "Search and Discovery Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilitye33a281a832d\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-search-and-discovery-filament"
+    }
+  }
+}
